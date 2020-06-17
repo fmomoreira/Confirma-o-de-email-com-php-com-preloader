@@ -1,0 +1,14 @@
+html, body, #formulario{
+    height: 100%;
+    width: 100%;
+}
+
+#formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#confirmaremail{
+    width: 40%;
+}
+
